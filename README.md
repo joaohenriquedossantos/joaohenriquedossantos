@@ -1,4 +1,4 @@
-# ✨Hey there! 🤟 Welcome to my place. 🏠 I Hope you're doing very well! 😉
+# ✨Hey you! 🤟 Welcome to my place. 🏠 I Hope you're doing very well! 😉
 
 
 

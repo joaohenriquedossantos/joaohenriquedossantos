@@ -1,4 +1,9 @@
-### ✨Hey there! 🤟 Welcome to my place. 🏠 I Hope you're doing very well! 😉
+# ✨Hey there! 🤟 Welcome to my place. 🏠 I Hope you're doing very well! 😉
+
+
+## Connect with me:
+
+![LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-henrique-john-280811196)
 
 <!--
 **joaohenriquedossantos/joaohenriquedossantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

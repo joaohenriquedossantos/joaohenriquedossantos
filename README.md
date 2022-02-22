@@ -17,7 +17,11 @@
  
 </div>
 
-
+## Languages that I speak:
+- 🇧🇷 Eu falo português como língua nativa
+- 🇺🇸 I speak English as second language
+- 🇷🇺 я говорю на русском языке
+- 🇮🇹 Io parlo l'Italiano
 
 <!--
 **joaohenriquedossantos/joaohenriquedossantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

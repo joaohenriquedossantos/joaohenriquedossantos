@@ -1,4 +1,4 @@
-# ✨Hey you! 🤟 Welcome to my place. 🏠 I Hope you're doing very well! 😉
+# ✨Hey you! Welcome to my place. 🏠 I Hope you're doing very well! 😉
 
 
 
@@ -27,7 +27,7 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
 
-## 🌏📗 Languages that I speak:
+## 🌏📗 Languages I speak:
 - 🇧🇷 Eu falo português como língua nativa
 - 🇺🇸 I speak English as second language
 - 🇷🇺 я говорю на русском языке

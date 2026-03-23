@@ -1,4 +1,4 @@
-# ✨Hey there! What's good? Welcome to my place. 🏠 I Hope you're doing very well!
+# Hey! What's good? Welcome! You'll find here some projects which I build whenever I have the time to upload something.
 
 
 
